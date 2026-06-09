@@ -1,0 +1,35 @@
+.bloco {
+    position: absolute;
+}
+
+.amarelo{
+    background-color: yellow;
+    top: 50px;
+    left: 50px;
+    width: 500px;
+    height: 500px;
+}
+
+.marrom{
+    background-color: rgb(249, 210, 118);
+    top: 50px;
+    left: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.verde{
+    background-color: green;
+    top: 200px;
+    left: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.vermelho{
+    background-color: red;
+    top: 75px;
+    left: 100px;
+    width: 150px;
+    height: 150px;
+}

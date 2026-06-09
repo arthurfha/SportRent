@@ -1,0 +1,23 @@
+.bloco{
+    width: 300px;
+    height: 300px;
+    position: absolute;     
+}
+
+.vermelho {
+    background-color: red;
+    top: 0px;
+    left: 0px;
+}
+
+.azul {
+    background-color: blue;
+    left: 120px;
+    top: 120px;
+}
+
+.verde {
+    background-color: green;
+    left: 50px;
+    top: 50px;
+}
